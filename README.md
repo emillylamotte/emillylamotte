@@ -1,8 +1,6 @@
 ### Sobre mim
 
-- Técnica em Automação Industrial formada no IFRS - Campus Rio Grande, atualmente cursando o 4º semestre de Engenharia de Automação na Universidade Federal do Rio Grande - FURG.<br>
-- Bolsista de inovação tecnológica no projeto "Refinaria 4.0", promovido pela Refinaria de Petróleo Riograndense e a unidade iTec - FURG/EMBRAPII. <br>
-- Participante da equipe de robótica FURGBOT na categoria @Home. 
+  21 anos, técnica em Automação Industrial formada no IFRS - Campus Rio Grande, atualmente cursando o 4º semestre de Engenharia de Automação na Universidade Federal do Rio Grande - FURG. Atuo como Bolsista de inovação tecnológica no projeto "Refinaria 4.0", promovido pela Refinaria de Petróleo Riograndense e a unidade iTec - FURG/EMBRAPII.Participante da equipe de robótica FURGBOT na categoria @Home. 
 
 ### Experiências anteriores
 
