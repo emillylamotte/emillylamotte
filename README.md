@@ -13,13 +13,13 @@
 - Sistemas de supervisão como BluePlant e ElipseE3;
 - Breves conhecimentos de desenvolvimento web com HTML, CSS E JavaScript;
 - Breves conhecimentos de desenvolvimento mobile/android com ReactNative;
-- Breves conhecimentos de Python;
+- Breves conhecimentos de Python e C/C++;
 - Elaboração de relatórios;
 - Apresentações orais;
 
 ### Áreas de interesse
 Buscando aperfeiçoamento e conhecimento nas seguintes áreas:<br>
-- Python;
+- Python e C/C++;
 - Desenvolvimento web;
 - Microcontroladores.
  ### Contato e Mídias Sociais
