@@ -10,7 +10,7 @@
 - Elaboração de relatórios;
 ### 📚 Áreas de interesse 
 Buscando aperfeiçoamento e conhecimento nas seguintes áreas:<br>
-- Python e C/C++;
+- Análise de dados com Python;
 - Desenvolvimento web;
 - Microcontroladores.
  ### 📧 Contato e Mídias Sociais 
