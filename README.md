@@ -8,11 +8,13 @@
 - Brief knowledge of mobile/android development with ReactNative;
 - Knowledge of Python and C;
 - Preparation of technical reports;
+- Basic level of English.
 ### 📚 Areas of interest 
 Seeking improvement and knowledge in the following areas:<br>
 - Python;
 - Web and mobile development;
-- Microcontrollers.
+- Microcontrollers;
+- Improving English.
  ### 📧 Contact me 
  - email: emilly.gol@gmail.com
  - LinkedIn: https://www.linkedin.com/in/emillylamotte
