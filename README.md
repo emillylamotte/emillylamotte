@@ -16,6 +16,7 @@ Seeking improvement and knowledge in the following areas:<br>
 - Microcontrollers;
 - Improving English.
  ### 📧 Contact me 
- - email: emilly.gol@gmail.com
- - LinkedIn: https://www.linkedin.com/in/emillylamotte
+ - Contact page: https://emillylamotte.github.io/contact-page/
+
+
  
