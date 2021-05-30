@@ -18,5 +18,13 @@ Seeking improvement and knowledge in the following areas:<br>
  ### 📧 Contact me 
  - Contact page: https://emillylamotte.github.io/contact-page/
 
-
- 
+<br>
+<br>
+<center>
+<table>
+    <tr>
+        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillylamotte&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="595px" align="left" src="https://github-readme-stats.vercel.app/api?username=emillylamotte&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
