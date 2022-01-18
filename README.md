@@ -1,6 +1,6 @@
-### 🙋🏻 About me 
+### 🙋🏻 About me
 
-  21 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently studying the 6th semester of Automation Engineering at the Federal University of Rio Grande - FURG. I work on the project "Refinery 4.0", promoted by the Riograndense Oil Refinery and the iTec - FURG / EMBRAPII unit. Participant of the FURGBOT robotics team in the @Home category. Volunteer Tutor at the Center for Computational Sciences - FURG.
+  22 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently studying the 6th semester of Automation Engineering at the Federal University of Rio Grande - FURG. I work on the project "Refinery 4.0", promoted by the Riograndense Oil Refinery and the iTec - FURG / EMBRAPII unit. Participant of the FURGBOT robotics team in the @Home category. Volunteer Tutor at the Center for Computational Sciences - FURG.
 ### 🔓 Skills
 - Projects with Arduino and similar;
 - Supervision systems such as BluePlant and ElipseE3;
@@ -13,10 +13,11 @@
 Seeking improvement and knowledge in the following areas:<br>
 - Python;
 - Web and mobile development;
-- Microcontrollers;
+- Microcontrollers; 
 - Improving English.
  ### 📧 Contact me 
  - Contact page: http://bit.ly/emillylamotte
+
 
 
 
