@@ -1,14 +1,14 @@
 ### 🙋🏻 About me
 
-  22 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently studying the 6th semester of Automation Engineering at the Federal University of Rio Grande - FURG. I am a Software Engineering Intern at XP Inc. I also work on the project "Refinery 4.0", promoted by the Riograndense Oil Refinery and the iTec - FURG / EMBRAPII unit. Participant of the FURGBOT robotics team in the @Home category. Volunteer Tutor at the Center for Computational Sciences - FURG.
+  24 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently studying the 6th semester of Automation Engineering at the Federal University of Rio Grande - FURG. I am a Software Engineering Junior at XP Inc. I also work on the project "Refinery 4.0", promoted by the Riograndense Oil Refinery and the iTec - FURG / EMBRAPII unit. Participant of the FURGBOT robotics team in the @Home category.
 ### 🔓 Skills
 - Projects with Arduino and similar;
 - Supervision systems such as BluePlant and ElipseE3;
-- Brief knowledge of web development with HTML, CSS and JavaScript;
-- Brief knowledge of mobile/android development with ReactNative;
+- Web development with HTML, CSS, JavaScript, TypeScript and React;
+- mobile/android development with ReactNative;
 - Knowledge of Python and C;
 - Construction of technical reports;
-- Basic level of English.
+- Medium level of English.
 ### 📚 Areas of interest 
 Seeking improvement and knowledge in the following areas:<br>
 - Python;
