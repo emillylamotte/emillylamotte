@@ -1,20 +1,16 @@
 ### 🙋🏻 About me
+Automation Engineer graduated from the Federal University of Rio Grande (FURG), currently working as a Software Engineer at XP Inc. with a focus on Front-End development.
 
-  24 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently studying the 6th semester of Automation Engineering at the Federal University of Rio Grande - FURG. I am a Software Engineering Junior at XP Inc. I also work on the project "Refinery 4.0", promoted by the Riograndense Oil Refinery and the iTec - FURG / EMBRAPII unit. Participant of the FURGBOT robotics team in the @Home category.
 ### 🔓 Skills
-- Projects with Arduino and similar;
-- Supervision systems such as BluePlant and ElipseE3;
-- Web development with HTML, CSS, JavaScript, TypeScript and React;
-- mobile/android development with ReactNative;
-- Knowledge of Python and C;
-- Construction of technical reports;
-- Medium level of English.
-### 📚 Areas of interest 
-Seeking improvement and knowledge in the following areas:<br>
-- Python;
-- Web and mobile development (React/React Native and Angular);
-- Microcontrollers; 
-- Improving English.
+- Proficient in web development using HTML, CSS, JavaScript, TypeScript, and React;
+- Experience with testing libraries such as Jest, React Testing Library, and Playwright;
+- Experienced with full CI/CD pipelines using Azure Pipelines;
+- Over 3 years of experience building front-end solutions from scratch to deployment;
+- Mobile development for Android using React Native;
+- Skilled in creating clear and efficient technical documentation and reports;
+- Intermediate level of English with very good comprehension and communication skills;
+- Familiar with Scrum methodologies and Azure Boards for project management;
+
  ### 📧 Contact me 
  - Contact page: http://bit.ly/emillylamotte
 
